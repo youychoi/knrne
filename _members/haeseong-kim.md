@@ -1,6 +1,7 @@
 ---
 name: Haeseong Kim
 image: images/photo.jpg
+affiliation: MIT
 role: Treasurer
 links:
   email: haeseong@mit.edu
