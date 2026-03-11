@@ -3,7 +3,7 @@
 
 # Welcome!
 
-Welcome to the Korean Nuclear Researchers in New England! Our group connects Korean professionals and researchers in the nuclear field across the region. We aim to foster collaboration, share knowledge, and build a supportive community where ideas, mentorship, and networking thrive. Whether you’re a student, researcher, or industry professional, we’re glad you’re here.
+Welcome to Korean New England Nuclear & Fusion Network! Our network connects Korean professionals and researchers in the nuclear field across the region. We aim to foster collaboration, share knowledge, and build a supportive community where ideas, mentorship, and networking thrive. Whether you’re a student, researcher, or industry professional, we’re glad you’re here.
 
 {% include section.html %}
 
