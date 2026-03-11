@@ -10,5 +10,12 @@ Our network brings together Korean researchers and professionals in the nuclear 
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filter="role == 'pi'" %}
-{% include list.html data="members" component="portrait" filter="role != 'pi'" %}
+## Leadership
+{% include list.html data="members" component="portrait" filter="role == 'President'" %}
+{% include list.html data="members" component="portrait" filter="role == 'Vice President'" %}
+{% include list.html data="members" component="portrait" filter="role == 'Treasurer'" %}
+{% include list.html data="members" component="portrait" filter="role == 'External Affairs'" %}
+
+
+## Members
+{% include list.html data="members" component="portrait" filter="role == 'Member'" %}
