@@ -26,7 +26,7 @@ Discover our events, collaborations, and initiatives advancing nuclear research 
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/250905_seminar1.JPG"
   link="activities"
   title="Our Activities"
   flip=true
