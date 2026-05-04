@@ -1,5 +1,76 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1088/1741-4326/ae5e91
+  title: Impact of drift flows and turbulence on island divertor operation in Wendelstein
+    7-X
+  authors:
+  - Carsten Killer
+  - Dario Cipciar
+  - Arun Pandey
+  - Valeria Perseo
+  - Floris Scharmer
+  - Seung Gyou Baek
+  - Olaf Grulke
+  - David Matthew Kriete
+  - Felix Reimold
+  - Adrian von Stechow
+  publisher: Nuclear Fusion
+  date: '2026-04-23'
+  link: https://doi.org/hbxpxz
+  orcid: 0000-0001-8029-3525
+  seung-gyou-back: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1088/1741-4326/ae651c
+  title: Comparison Between Alcator C-Mod ICRF Experiments and 3D Full Wave Simulations
+  authors:
+  - Raymond Diab
+  - Aditya Y Joshi
+  - Syunichi Shiraiwa
+  - Seung Gyou Baek
+  - Yijun Lin
+  - Earl S Marmar
+  - Mark S Shephard
+  - Stephen J Wukitch
+  publisher: Nuclear Fusion
+  date: '2026-04-27'
+  link: https://doi.org/hb2ccs
+  orcid: 0000-0001-8029-3525
+  seung-gyou-back: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1088/1741-4326/ae4919
+  title: Characterizing core and edge turbulence regimes with fluctuation imaging
+    diagnostics in Wendelstein 7-X
+  authors:
+  - Adrian von Stechow
+  - Seung Gyou Baek
+  - "Jan-Peter B\xE4ehner"
+  - Sean Bozkurt Ballinger
+  - Dario Cipciar
+  - Eric Matthias Edlund
+  - Golo Fuchert
+  - Olaf Grulke
+  - Tomas, Tomie Gonda
+  - "S\xF8ren Kjer Hansen"
+  - Carsten Killer
+  - Sehyun Kwak
+  - Maciej Krychowiak
+  - Andreas Langenberg
+  - Novimir Antoniuk Pablant
+  - Ekkehard Pasch
+  - Andrea Pavone
+  - Miklos Porkolab
+  - Jakob Svensson
+  - Jim L Terry
+  - Daihong Zhang
+  publisher: Nuclear Fusion
+  date: '2026-02-23'
+  link: https://doi.org/hbr3st
+  orcid: 0000-0001-8029-3525
+  seung-gyou-back: true
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1088/1741-4326/ae38f6
   title: Spherical tokamak physics research in preparation for the operation of NSTX-U
   authors:
@@ -107,38 +178,6 @@
   publisher: Nuclear Fusion
   date: '2026-02-02'
   link: https://doi.org/hbr3ss
-  orcid: 0000-0001-8029-3525
-  seung-gyou-back: true
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1088/1741-4326/ae4919
-  title: Characterizing core and edge turbulence regimes with fluctuation imaging
-    diagnostics in Wendelstein 7-X
-  authors:
-  - Adrian von Stechow
-  - Seung Gyou Baek
-  - "Jan-Peter B\xE4ehner"
-  - Sean Bozkurt Ballinger
-  - Dario Cipciar
-  - Eric Matthias Edlund
-  - Golo Fuchert
-  - Olaf Grulke
-  - Tomas, Tomie Gonda
-  - "S\xF8ren Kjer Hansen"
-  - Carsten Killer
-  - Sehyun Kwak
-  - Maciej Krychowiak
-  - Andreas Langenberg
-  - Novimir Antoniuk Pablant
-  - Ekkehard Pasch
-  - Andrea Pavone
-  - Miklos Porkolab
-  - Jakob Svensson
-  - Jim L Terry
-  - Daihong Zhang
-  publisher: Nuclear Fusion
-  date: '2026-02-23'
-  link: https://doi.org/hbr3st
   orcid: 0000-0001-8029-3525
   seung-gyou-back: true
   plugin: orcid.py
