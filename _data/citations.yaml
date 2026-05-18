@@ -1,5 +1,76 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1088/1741-4326/ae651c
+  title: Comparison between Alcator C-Mod ICRF experiments and 3D full wave simulations
+  authors:
+  - R. Diab
+  - A.Y. Joshi
+  - S. Shiraiwa
+  - S.G. Baek
+  - Y. Lin
+  - E.S. Marmar
+  - M.S. Shephard
+  - S.J. Wukitch
+  publisher: Nuclear Fusion
+  date: '2026-05-13'
+  link: https://doi.org/hb2ccs
+  orcid: 0000-0001-8029-3525
+  seung-gyou-back: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1088/1741-4326/ae5e91
+  title: Impact of drift flows and turbulence on island divertor operation in Wendelstein
+    7-X
+  authors:
+  - Carsten Killer
+  - Dario Cipciar
+  - Arun Pandey
+  - Valeria Perseo
+  - Floris Scharmer
+  - Seung Gyou Baek
+  - Olaf Grulke
+  - David Matthew Kriete
+  - Felix Reimold
+  - Adrian von Stechow
+  publisher: Nuclear Fusion
+  date: '2026-04-23'
+  link: https://doi.org/hbxpxz
+  orcid: 0000-0001-8029-3525
+  seung-gyou-back: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1088/1741-4326/ae4919
+  title: Characterizing core and edge turbulence regimes with fluctuation imaging
+    diagnostics in Wendelstein 7-X
+  authors:
+  - Adrian von Stechow
+  - Seung Gyou Baek
+  - "Jan-Peter B\xE4ehner"
+  - Sean Bozkurt Ballinger
+  - Dario Cipciar
+  - Eric Matthias Edlund
+  - Golo Fuchert
+  - Olaf Grulke
+  - Tomas, Tomie Gonda
+  - "S\xF8ren Kjer Hansen"
+  - Carsten Killer
+  - Sehyun Kwak
+  - Maciej Krychowiak
+  - Andreas Langenberg
+  - Novimir Antoniuk Pablant
+  - Ekkehard Pasch
+  - Andrea Pavone
+  - Miklos Porkolab
+  - Jakob Svensson
+  - Jim L Terry
+  - Daihong Zhang
+  publisher: Nuclear Fusion
+  date: '2026-02-23'
+  link: https://doi.org/hbr3st
+  orcid: 0000-0001-8029-3525
+  seung-gyou-back: true
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1088/1741-4326/ae38f6
   title: Spherical tokamak physics research in preparation for the operation of NSTX-U
   authors:
@@ -107,38 +178,6 @@
   publisher: Nuclear Fusion
   date: '2026-02-02'
   link: https://doi.org/hbr3ss
-  orcid: 0000-0001-8029-3525
-  seung-gyou-back: true
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1088/1741-4326/ae4919
-  title: Characterizing core and edge turbulence regimes with fluctuation imaging
-    diagnostics in Wendelstein 7-X
-  authors:
-  - Adrian von Stechow
-  - Seung Gyou Baek
-  - "Jan-Peter B\xE4ehner"
-  - Sean Bozkurt Ballinger
-  - Dario Cipciar
-  - Eric Matthias Edlund
-  - Golo Fuchert
-  - Olaf Grulke
-  - Tomas, Tomie Gonda
-  - "S\xF8ren Kjer Hansen"
-  - Carsten Killer
-  - Sehyun Kwak
-  - Maciej Krychowiak
-  - Andreas Langenberg
-  - Novimir Antoniuk Pablant
-  - Ekkehard Pasch
-  - Andrea Pavone
-  - Miklos Porkolab
-  - Jakob Svensson
-  - Jim L Terry
-  - Daihong Zhang
-  publisher: Nuclear Fusion
-  date: '2026-02-23'
-  link: https://doi.org/hbr3st
   orcid: 0000-0001-8029-3525
   seung-gyou-back: true
   plugin: orcid.py
@@ -499,6 +538,21 @@
   youyeon-choi: true
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.2139/ssrn.6617358
+  title: '&lt;p&gt;Insights Into Metallic Helical Cruciform Nuclear Fuel Through Advanced
+    3D Fuel Performance&lt;/p&gt;'
+  authors:
+  - Youyeon Choi
+  - Guillaume Giudicelli
+  - Kyle Gamble
+  - Koroush Shirvan
+  publisher: Elsevier BV
+  date: '2026-01-01'
+  link: https://doi.org/hb3fm3
+  orcid: 0000-0001-9395-2796
+  youyeon-choi: true
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1016/j.anucene.2024.111068
   title: Coupled simulation for pin-wise reactor core analysis using subchannel analysis
     code CUPID and fuel performance code GIFT
